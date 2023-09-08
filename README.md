@@ -1,2 +1,2 @@
 # gobench
-API benchmarking tool written in Go
+REST API benchmarking tool written in Go
